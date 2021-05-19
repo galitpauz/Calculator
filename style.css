@@ -1,0 +1,53 @@
+body {    
+    background:url('/img/andyone--WW8jBak7bo-unsplash.jpg');
+}
+input{
+    border: none;
+}
+button {
+    height: 50px;
+    width: 50px;
+    margin: 10px 4px;
+    box-shadow: inset 1px 1px 50px  #0066FF;
+}
+
+#allClear {
+    box-shadow: inset 1px 1px 50px  #990000;
+    /* border: none; */
+}
+#clear {
+    box-shadow: inset 1px 1px 50px  #CC6600;
+}
+#equals{
+    box-shadow: inset 1px 1px 50px #006633;
+}
+/* Hidden button for formatting sake */
+#blank {
+    visibility: hidden;
+}
+.calcBG {
+    width: 245px;
+    background-color: #18181d;
+    border-radius: 25px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    box-shadow: inset 1px 1px 50px #000;
+    margin: 25vh auto;
+}
+.screen {
+    height: 40px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 2px;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 0px 4px  #4848eb inset;
+    
+}
+
+small {
+    color: #fff;
+    font-weight: bold;
+}
